@@ -1,1 +1,1 @@
-# 15-bus colombian system dataset
+# 15-bus colombian power system dataset
